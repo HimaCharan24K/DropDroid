@@ -1,0 +1,12 @@
+{
+  "channels": [
+    {
+      "name": "Lenny's Podcast",
+      "youtube_handle": "@LennysPodcast"
+    },
+    {
+      "name": "Lex Fridman",
+      "youtube_handle": "@lexfridman"
+    }
+  ]
+}
